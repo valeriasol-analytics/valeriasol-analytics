@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi there
+I’m a communications expert now focused on **Data Analytics**. I love the challenge of taking a messy dataset and visualizing **the 'why' behind the numbers**. 
+Experience in HR events and engagement, currently strengthening my skills in HR analytics and data-driven decision-making for people management.
+My background keeps me focused on the customer, ensuring that the technical work I do always delivers real-world value. 
 
-<!--
-**valeriasol-analytics/valeriasol-analytics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently Learning:
 
-Here are some ideas to get you started:
+_HR Analytics:_ Mastering Python and SQL to transform raw employee and events data into actionable insights.  
+_Data Visualization:_ Building dashboards in Power BI and Looker that tell stories about organizational culture.  
+_Automation:_ Using Python to automate repetitive HR administrative tasks.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Looking forward to sharing my projects (the ones I'm most proud of! 😅)
+
+Let's connect! [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/valeria-solorzano-bermudez)
