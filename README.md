@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="1500" height="300" alt="Image" src="https://github.com/user-attachments/assets/f3ccdf74-6e2f-4050-a954-d75754fb9fc1" alt="Mi Banner de Presentación" width="100%">
+</p>
+
 ## Hi there
 I’m a communications expert now focused on **Data Analytics**. I love the challenge of taking a messy dataset and visualizing **the 'why' behind the numbers**. 
 Experience in HR events and engagement, currently strengthening my skills in HR analytics and data-driven decision-making for people management.
