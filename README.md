@@ -16,4 +16,4 @@ _Automation:_ Using Python to automate repetitive HR administrative tasks.
 
 Looking forward to sharing my projects (the ones I'm most proud of! 😅)
 
-Let's connect! [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/valeria-solorzano-bermudez)
+Let's connect! [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valeria-solorzano-bermudez)
