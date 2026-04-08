@@ -4,7 +4,7 @@
 
 ## Hi there
 I’m a communications expert now focused on **Data Analytics**. I love the challenge of taking a messy dataset and visualizing **the 'why' behind the numbers**. 
-Experience in HR events and engagement, currently strengthening my skills in HR analytics and data-driven decision-making for people management.
+Experienced in HR events and engagement, currently strengthening my skills in HR analytics and data-driven decision-making for people management.
 My background keeps me focused on the customer, ensuring that the technical work I do always delivers real-world value. 
 
 Currently Learning:
